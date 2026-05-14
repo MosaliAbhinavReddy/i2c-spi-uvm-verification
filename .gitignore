@@ -1,0 +1,14 @@
+work/
+sim/*.vcd
+sim/*.wlf
+vsim.wlf
+transcript
+vish_stacktrace.vstf
+uvm/
+bench/
+Aldec/
+doc/
+syn/
+sw/
+programFiles/
+model/
